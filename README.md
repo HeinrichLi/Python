@@ -1,6 +1,4 @@
 # Python
 BestPractice
 
-Test
-
 
